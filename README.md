@@ -1,16 +1,13 @@
-### Hi there 👋
+### continue revolution 👋
 
-<!--
-**continue-revolution/continue-revolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU. Working on Stable Diffusion and Systems for Machine Learning.
 
-Here are some ideas to get you started:
+- 👯 **I’m looking for an internship in summer 2024, email me if you are interested**
+- 📫 Reach out to me via github issue for project matter, email for confidential inquiry
+- 🌐 Languages: English, 中文
+- ⚡ Fun fact: I love anime!
+- 💬 My [bilibili](https://space.bilibili.com/1549185169) homepage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://github-readme-stats.vercel.app/api?username=continue-revolution&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=continue-revolution&layout=compact" />
