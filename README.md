@@ -1,6 +1,7 @@
 ### continue revolution 👋
 
 MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
 
 - 👯 **I’m looking for an internship in summer 2024, email me if you are interested**.
 - 🔭 I’m working on Stable Diffusion and Systems for Machine Learning.
