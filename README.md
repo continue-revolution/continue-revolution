@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
 MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
-- 👯 **I’m having my vacation in 05/2024, during which I may be slow to respond to any professional request. I will also pause any software update during this time. The exact end date is TBD.**
+- 👯 **I’m having my vacation in 05/2024, during which I may be slow to respond to any professional request. I will also pause any software update during this time. The exact end date might be the end of May.**
 - 🔭 I’m working on Stable Diffusion and Database Systems.
 - 📫 Contact me via github issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
