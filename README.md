@@ -4,7 +4,7 @@
 MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
 - 👯 **I’m having my vacation in 05/2024, during which I may be slow to respond to any professional request. I will also pause any software update during this time. The exact end date is TBD.**
-- 🔭 I’m working on Stable Diffusion and Systems for Machine Learning.
+- 🔭 I’m working on Stable Diffusion and Database Systems.
 - 📫 Contact me via github issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
