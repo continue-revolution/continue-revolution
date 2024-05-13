@@ -3,8 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
 MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
-- 👯 **I’m having my vacation in 05/2024, during which I may be slow to respond to any professional request. I will also pause any software update during this time. The end date is approximately the end of May.**
-- 🔭 I’m working on Stable Diffusion and Database Systems.
+> I’m having my vacation in 05/2024, during which I may be slow to respond to any professional request. I will also pause any software update during this time. The end date is approximately the end of May.
+
+- 👯 If you are interested in hiring me, please feel free to send me an email.
+- 🔭 I’m working on Stable Diffusion and Computing Systems.
 - 📫 Contact me via github issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
