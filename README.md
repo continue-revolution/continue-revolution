@@ -1,9 +1,9 @@
-### continue revolution 👋
+'### continue revolution 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
 MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
-- 👯 I am actively looking for a full-time job in both US and China, or an oversea PhD opportunity. If you have an opening, please send me an email.
+- 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good), or an oversea PhD opportunity. If you have an opening, please send me an email.
 - 🔭 I’m working on Systems for Diffusion Transformer. I am planning to completely move on to DiT related development and research.
 - 📫 Contact me via GitHub issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
