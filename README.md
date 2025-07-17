@@ -1,10 +1,11 @@
 ### continue revolution 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
-MSCS 25' @UIUC, previously BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
+Graduated MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
-- 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good if you can sponsor Visa), or an oversea PhD opportunity. If you have an opening, please send me an email.
-- 🔭 I’m working on Systems for Diffusion Transformer. I am planning to completely move on to DiT related development and research.
+<!-- - 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good if you can sponsor Visa), or an oversea PhD opportunity. If you have an opening, please send me an email. -->
+- 👯 I'm pausing myself from open-source projects. I'm now focusing on academic research and industry projects. I'm still trying to find something interesting to develop as my new open-source project.
+- 🔭 I’m working on Systems for Diffusion Transformer.
 - 📫 Contact me via GitHub issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
