@@ -4,8 +4,8 @@
 Graduated MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
 
 <!-- - 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good if you can sponsor Visa), or an oversea PhD opportunity. If you have an opening, please send me an email. -->
-- 👯 I'm pausing myself from open-source projects. I'm now focusing on academic research and industry projects. I'm still trying to find something interesting to develop as my new open-source project.
-- 🔭 I’m working on Systems for Diffusion Transformer.
+- 👯 I'm pausing myself from academic research or individual open-source projects. I'm now focusing on industry projects, which are almost certainly to be open sourced.
+- 🔭 I’m working on Visual Generation and Diffusion Transformer.
 - 📫 Contact me via GitHub issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
