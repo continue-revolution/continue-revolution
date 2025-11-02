@@ -1,7 +1,9 @@
 ### continue revolution 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=continue-revolution&label=Profile%20views&color=0e75b6&style=flat" alt="continue-revolution" /> </p>
-Software Engineer @NVIDIA, prev. Algorithm Engineer @Alibaba AIOS, MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE ECE 23' @SJTU.
+Software Engineer @NVIDIA
+
+Prev. Algorithm Engineer @Alibaba AIOS, MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE ECE 23' @SJTU
 
 <!-- - 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good if you can sponsor Visa), or an oversea PhD opportunity. If you have an opening, please send me an email. -->
 - 👯 I'm focusing on industry projects. They are also open-sourced, but they have more impact.
