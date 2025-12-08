@@ -13,5 +13,5 @@ Prev. Algorithm Engineer @Alibaba AIOS, MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE 
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
 - 💬 I want more followers on my [bilibili](https://space.bilibili.com/1549185169) and [twitter](https://twitter.com/conrevo0) homepage.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=continue-revolution&show_icons=true&count_private=true" height="150"/></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=continue-revolution&layout=compact" height="150"/></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=continue-revolution&show_icons=true&count_private=true" height="150"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=continue-revolution&layout=compact" height="150"/></p> -->
