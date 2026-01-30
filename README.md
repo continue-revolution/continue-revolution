@@ -6,8 +6,8 @@ Software Engineer @NVIDIA
 Prev. Algorithm Engineer @Alibaba AIOS, MSCS 25' @UIUC, BSE CSE 23' @UMich, BSE ECE 23' @SJTU
 
 <!-- - 👯 I’m actively looking for a full-time job in both US and China (other countries / regions such as Japan and Europe are also good if you can sponsor Visa), or an oversea PhD opportunity. If you have an opening, please send me an email. -->
-- 👯 I'm focusing on industry projects. They are also open-sourced, but they have more impact.
-- 🔭 I’m interested in Visual Generation and Diffusion Transformer.
+- 👯 I'm focusing on [Megatron-LM](https://github.com/NVIDIA/Megatron-LM) at NVIDIA.
+- 🔭 I still have interest in Visual Generation and Diffusion Transformer. I'm open to work on creative, impactful, and most importantly, fun projects.
 - 📫 Contact me via GitHub issue for project matter, email for confidential inquiry.
 - 🌐 Languages: English, 中文.
 - ⚡ Fun fact: 'continue revolution' is inspired by [Beyond](https://en.wikipedia.org/wiki/Beyond_(band))'s album *Continue the Revolution* (繼續革命) (1992).
